@@ -1,0 +1,82 @@
+{
+  "hotel_name": "Essentia Luxury Hotel, Indore",
+  "location": "near World Cup Square, Pipliyahana, Indore, Madhya Pradesh 452016",
+  "rooms": [
+    {
+      "room_type": "Deluxe King Room",
+      "price": "Not specified",
+      "availability": "Not specified",
+      "features": [
+        "321 sq. ft.",
+        "accommodates up to four guests",
+        "modern amenities",
+        "comfortable layout"
+      ]
+    },
+    {
+      "room_type": "Deluxe Twin Room",
+      "price": "Not specified",
+      "availability": "Not specified",
+      "features": [
+        "321 sq. ft.",
+        "accommodates up to four guests",
+        "sleek, contemporary space",
+        "modern comforts"
+      ]
+    },
+    {
+      "room_type": "Premium King Pool View with Inhouse Craft Brew",
+      "price": "Not specified",
+      "availability": "Not specified",
+      "features": [
+        "321 sq. ft.",
+        "accommodates up to four guests",
+        "stunning pool views",
+        "elegant and serene",
+        "combines luxury with scenic beauty"
+      ]
+    },
+    {
+      "room_type": "Day Use Room",
+      "price": "Not specified",
+      "availability": "Not specified",
+      "features": [
+        "321 sq. ft.",
+        "modern amenities",
+        "comfort for two"
+      ]
+    },
+    {
+      "room_type": "Deluxe Suite with Inhouse Craft Brew",
+      "price": "Not specified",
+      "availability": "Not specified",
+      "features": [
+        "460 sq. ft.",
+        "living room",
+        "accommodates up to four guests",
+        "pool views",
+        "refined design"
+      ]
+    },
+    {
+      "room_type": "Executive Suite with Inhouse Craft Brew",
+      "price": "Not specified",
+      "availability": "Not specified",
+      "features": [
+        "622 sq. ft.",
+        "living room",
+        "dining area",
+        "accommodates up to four guests",
+        "spacious and refined accommodations"
+      ]
+    }
+  ],
+  "amenities": [
+    "Free Wi-Fi",
+    "Complimentary Breakfast",
+    "Room Upgrade (subject to availability)",
+    "15% discount on Laundry",
+    "upto 20% discount on F&B"
+  ],
+  "dining": []
+}

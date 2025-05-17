@@ -1,0 +1,28 @@
+{
+  "hotel_name": "Essentia Luxury Hotel, Indore",
+  "location": "near World Cup Square, Pipliyahana, Indore, Madhya Pradesh 452016",
+  "rooms": [],
+  "amenities": [
+    "Free Wi-Fi",
+    "Complimentary Breakfast",
+    "Room Upgrade (subject to availability)",
+    "15% discount on Laundry",
+    "Upto 20% discount on F&B"
+  ],
+  "dining": [
+    {
+      "name": "Blue Salt and Coffee",
+      "description": "Not specified"
+    },
+    {
+      "name": "Splash Bar & Grill",
+      "description": "Not specified"
+    },
+    {
+      "name": "Citron - The Lounge Bar",
+      "description": "Our lounge in Indore is the epitome of understated sophistication, offering an intimate indoor setting perfect for unwinding. The multi-cuisine menu and carefully crafted selection of alcoholic beverages provide an indulgent experience for those seeking a refined, yet relaxed, atmosphere. The bar also features tempting happy hours, making it an ideal choice for an early evening drink or a post-dinner nightcap, all within the comfort of its chic and elegant surroundings.",
+      "timing": "12 AM to 12 PM",
+      "rates": "\u20b91,000 - \u20b92,000"
+    }
+  ]
+}

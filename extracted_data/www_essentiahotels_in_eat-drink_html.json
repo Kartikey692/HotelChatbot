@@ -1,0 +1,26 @@
+{
+  "hotelName": "Essentia Hotels & Resorts",
+  "location": "Multiple locations (Udaipur, Indore, Pune, Chennai, Udupi)",
+  "rooms": [],
+  "amenities": [
+    "Free Wi-Fi",
+    "Complimentary Breakfast",
+    "Room Upgrade (subject to availability)",
+    "15% discount on Laundry",
+    "Up to 20% discount on F&B"
+  ],
+  "diningOptions": [
+    {
+      "name": "Blue Salt and Coffee",
+      "description": "Dining area by the side of the pool at Essentia Luxury Resort & Spa, Udaipur and Essentia Premier Hotel, Chennai"
+    },
+    {
+      "name": "Citron Bar",
+      "description": "Bar at Essentia Luxury Hotel, Indore with a white and brown ambience, and Essentia Premiere, Pune with comfortable seating"
+    },
+    {
+      "name": "Viraasat",
+      "description": "Restaurant at Essentia Manipal Inn, Udupi"
+    }
+  ]
+}

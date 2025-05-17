@@ -1,0 +1,24 @@
+{
+  "hotel_name": "Essentia Luxury Hotel",
+  "location": "Indore, Madhya Pradesh 452016",
+  "rooms": [],
+  "amenities": [
+    "Swimming Pool",
+    "Multiple Event Venues",
+    "Multiple Dining Venues",
+    "Car Rental Service",
+    "Currency Exchange",
+    "Rooms for Differently Abled",
+    "Free Wi-Fi",
+    "Complimentary Breakfast",
+    "Room Upgrade (subject to availability)",
+    "Get 15% discount on Laundry",
+    "Get upto 20% discount on F&B"
+  ],
+  "dining": [
+    {
+      "name": "Blue Salt Cafe",
+      "description": "Poolside seating arrangement.  More details not specified."
+    }
+  ]
+}

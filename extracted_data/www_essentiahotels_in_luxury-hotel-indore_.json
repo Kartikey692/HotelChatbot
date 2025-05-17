@@ -1,0 +1,79 @@
+{
+  "hotel_name": "Essentia Luxury Hotel",
+  "location": "Indore, Madhya Pradesh 452016",
+  "rooms": [
+    {
+      "room_type": "Deluxe King Room",
+      "price": "Not specified",
+      "availability": "Not specified",
+      "features": [
+        "double bed",
+        "television"
+      ]
+    },
+    {
+      "room_type": "Deluxe Twin Room",
+      "price": "Not specified",
+      "availability": "Not specified",
+      "features": [
+        "twin beds",
+        "television",
+        "work desk",
+        "chair"
+      ]
+    },
+    {
+      "room_type": "Premium King Room",
+      "price": "Not specified",
+      "availability": "Not specified",
+      "features": [
+        "double bed",
+        "television"
+      ]
+    },
+    {
+      "room_type": "Deluxe Suite",
+      "price": "Not specified",
+      "availability": "Not specified",
+      "features": [
+        "double bed",
+        "television",
+        "separate living area"
+      ]
+    },
+    {
+      "room_type": "Executive Suite",
+      "price": "Not specified",
+      "availability": "Not specified",
+      "features": [
+        "sofa seating",
+        "coffee table"
+      ]
+    }
+  ],
+  "amenities": [
+    "Free Wi-Fi",
+    "Complimentary Breakfast",
+    "Room Upgrade (subject to availability)",
+    "15% discount on Laundry",
+    "upto 20% discount on F&B",
+    "Swimming Pool",
+    "Airport Transfers (upon request)",
+    "24-hour Travel Desk",
+    "Rooms for differently-abled"
+  ],
+  "dining": [
+    {
+      "name": "Blue Salt and Coffee",
+      "description": "A 24-hour restaurant with global flavours, picturesque gardens, and pool views."
+    },
+    {
+      "name": "Splash Bar & Grill",
+      "description": "Al fresco dining by the poolside, offering a multi-cuisine menu and curated drinks."
+    },
+    {
+      "name": "Citron - The Lounge Bar",
+      "description": "A sophisticated bar with intimate seating, premium beverages, and a relaxed atmosphere."
+    }
+  ]
+}

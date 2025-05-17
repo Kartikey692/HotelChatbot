@@ -1,0 +1,68 @@
+{
+  "hotelName": "Essentia Luxury Hotel, Indore",
+  "hotelLocation": "Indore, Madhya Pradesh 452016",
+  "rooms": [
+    {
+      "roomType": "Premium King Pool View with Inhouse Craft Brew",
+      "price": "From 5,813 INR/Night",
+      "availability": "40 rooms available",
+      "roomFeatures": [
+        "King Size Bed",
+        "Air-conditioning",
+        "43-inch Television",
+        "Complimentary Internet Access",
+        "Tea and Coffee Maker",
+        "Pool View",
+        "321 sq. ft."
+      ]
+    },
+    {
+      "roomType": "Deluxe King Room",
+      "price": "Not specified",
+      "availability": "Not specified",
+      "roomFeatures": [
+        "Not specified"
+      ]
+    },
+    {
+      "roomType": "Deluxe Twin Room",
+      "price": "Not specified",
+      "availability": "Not specified",
+      "roomFeatures": [
+        "Not specified"
+      ]
+    },
+    {
+      "roomType": "Day Use Room",
+      "price": "Not specified",
+      "availability": "Not specified",
+      "roomFeatures": [
+        "Not specified"
+      ]
+    },
+    {
+      "roomType": "Deluxe Suite with Inhouse Craft Brew",
+      "price": "Not specified",
+      "availability": "Not specified",
+      "roomFeatures": [
+        "Not specified"
+      ]
+    },
+    {
+      "roomType": "Executive Suite with Inhouse Craft Brew",
+      "price": "Not specified",
+      "availability": "Not specified",
+      "roomFeatures": [
+        "Not specified"
+      ]
+    }
+  ],
+  "amenities": [
+    "Free Wi-Fi",
+    "Complimentary Breakfast",
+    "Room Upgrade (subject to availability)",
+    "15% discount on Laundry",
+    "Upto 20% discount on F&B"
+  ],
+  "diningOptions": []
+}
